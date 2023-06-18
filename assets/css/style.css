@@ -1,0 +1,25 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #292d3e;
+  color: #fff;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: monospace;
+}
+
+video {
+  width: 800px;
+  height: 400px;
+  background-color: #fff1;
+  padding: 50px;
+  border-radius: 10px;
+}
